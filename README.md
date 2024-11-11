@@ -27,7 +27,6 @@ Method `ambilMahasiswa(id: any)` digunakan untuk mengambil data mahasiswa berdas
 - **Menangani Respons**: Jika berhasil, data mahasiswa akan disimpan dalam variabel dan ditampilkan di modal edit. Jika gagal, pesan kesalahan akan ditampilkan di konsol.
 - **Pentingnya Method**: Method ini sangat penting dalam proses pengeditan, karena memastikan bahwa pengguna dapat melihat dan mengedit informasi yang tepat sebelum menyimpannya kembali ke database.
 
-Dengan fitur-fitur ini, aplikasi kami memberikan kemudahan dan efisiensi dalam manajemen data mahasiswa. Kami berharap aplikasi ini dapat membantu pengguna dalam mengelola informasi mahasiswa dengan lebih baik.
 
 # Screenshot
 <div style="display: flex; justify-content: space-between;">
